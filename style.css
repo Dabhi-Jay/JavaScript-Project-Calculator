@@ -1,0 +1,45 @@
+.container{
+    margin: auto;
+    /* text-align: center; */
+    width: 50%;
+    border: 2px solid black;
+    
+}
+.con2{
+    margin: 10px;
+}
+h2{
+    padding: 5px;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#inp1,#inp2{
+    padding: 7px;
+    width: 570px;
+}
+#operators,.op{
+    margin: 7px;
+    padding: 7px;
+    height: 40px;
+    width: 570px;
+    background-color: black;
+    color: white;
+}
+#calculate{
+    margin: 7px;
+    padding: 5px;
+    height: 40px;
+    width: 570px;
+    background-color: rgb(11, 11, 221);
+    color: whitesmoke;
+}
+#reset{
+    margin: 7px;
+    padding: 5px;
+    height: 40px;
+    width: 570px;
+    background-color: rgb(10, 128, 10);
+    color: whitesmoke;
+}
